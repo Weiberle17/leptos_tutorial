@@ -1,2 +1,3 @@
 tab_spaces = 2
 indentation_style = "Spaces"
+max_width = 80
